@@ -1,5 +1,3 @@
-# python027
-python027基于Python+Vue3的选课课程管理系统
  
 ## 查看主页获取源码
 
